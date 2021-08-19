@@ -5,3 +5,4 @@ My name is Santigo, I'm from Cuba but I am living in Spain. I'm a scientific res
 * Currently working at [CEIT](https://ceit.es) as a scientific researcher.
 * I also work as a visiting professor at [TECNUN](https://tecnun.unav.edu/), [University of Navarra](https://www.unav.edu/).
 * I have started an internship in the [Linux Foundation's mentorship program](https://mentorship.lfx.linuxfoundation.org/project/d8a154c6-41fb-4733-b3c8-df37796e7fa3).
+* The manuscript published can be found in my [Google Schoolar profile](https://scholar.google.com/citations?user=mfozVfMAAAAJ&hl=en) or my [Publons profile](https://publons.com/researcher/1967572/santiago-figueroa-lorenzo).
