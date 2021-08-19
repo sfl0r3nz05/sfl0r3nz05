@@ -1,6 +1,7 @@
 # Hello 👋
 
 My name is Santigo, I'm from Cuba but I am living in Spain.
+- I am in [Twitter](https://twitter.com/sfl0r3nz05) and [Linkedin](linkedin.com/in/sfl0r3nz05)
 
 * Currently working at [CEIT](https://ceit.es) as a scientific researcher.
 * I am also a PhD student at [TECNUN](https://tecnun.unav.edu/), [University of Navarra](https://www.unav.edu/).
