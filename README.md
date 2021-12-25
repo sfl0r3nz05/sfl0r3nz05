@@ -3,7 +3,7 @@
 My name is Santigo, I'm from Cuba but I am living in Spain.
 - I am in [Twitter](https://twitter.com/sfl0r3nz05) and [Linkedin](linkedin.com/in/sfl0r3nz05).
 
-* Currently working at [CEIT](https://ceit.es) as a scientific researcher.
+* Currently working at [CEIT](https://ceit.es) as a scientific researcher in fields such as Blockchain, Access Control Systems, Self-Sovereign Identity, ICS Security and Natural Processing Language.
 * I have received my PhD at [University of Navarra](https://www.unav.edu/).
   * The scientific activity in terms of articles/manuscripts published can be found in my [Google Schoolar profile](https://scholar.google.com/citations?user=mfozVfMAAAAJ&hl=en) or in my [Publons profile](https://publons.com/researcher/1967572/santiago-figueroa-lorenzo).
 * I also work as a [visiting professor](https://www.unav.edu/web/departamento-de-ingenieria-electrica-y-electronica/personal/otros-profesores-asociados-e-invitados#:~:text=Figueroa%20Lorenzo%2C%20Santiago) at [TECNUN](https://tecnun.unav.edu/), [University of Navarra](https://www.unav.edu/).
