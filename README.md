@@ -10,4 +10,4 @@ My name is Santigo.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sfl0r3nz05&show_icons=true&theme=gotham)
 <!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
-<!-- ![Santiago's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sfl0r3nz05&show_icons=true&theme=gotham) -->
+![Santiago's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sfl0r3nz05&show_icons=true&theme=gotham)
