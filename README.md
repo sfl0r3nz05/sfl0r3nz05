@@ -1,6 +1,6 @@
 # Hello 👋
 
-My name is Santigo.
+My name is Santiago.
 - I am in [Twitter](https://twitter.com/sfl0r3nz05) and [Linkedin](linkedin.com/in/sfl0r3nz05).
 - Currently working at [CEIT](https://ceit.es) as a scientific researcher in fields such as Blockchain, Access Control Systems, Self-Sovereign Identity, ICS Security and Natural Processing Language.
 - I have received my PhD at [University of Navarra](https://www.unav.edu/) in October 2021.
