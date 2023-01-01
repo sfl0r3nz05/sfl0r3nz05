@@ -8,13 +8,6 @@ My name is Santiago.
 - I also work as a [Collaborating Professor](https://www.unav.edu/web/departamento-de-ingenieria-electrica-y-electronica/personal/profesores-de-otros-departamentos-y-centros#:~:text=Santiago%20Figueroa%20Lorenzo) at [TECNUN](https://tecnun.unav.edu/), [University of Navarra](https://www.unav.edu/).
 - I have completed an internship in the [Linux Foundation's mentorship program](https://mentorship.lfx.linuxfoundation.org/project/d8a154c6-41fb-4733-b3c8-df37796e7fa3), in November 2021.
 
-<p align="center">
-	<a href="https://twitter.com/sfl0r3nz05"><img src="imgs/twitter.svg" alt="Twitter"></a>
-	<a href="https://github.com/sfl0r3nz05"><img src="imgs/github.svg" alt="GitHub"></a>
-	<a href="https://www.linkedin.com/in/sfl0r3nz05"><img src="imgs/linkedin.svg" alt="LinkedIn"></a>
-	<a href="https://scholar.google.com/citations?user=mfozVfMAAAAJ&hl=en"><img src="imgs/citations.svg" alt="Citations"></a>
-</p>
-
 ### GitHub Stats
 <div><img style="height: auto; width: auto;" class="img" src="https://github-readme-stats.vercel.app/api?username=sfl0r3nz05&theme=radical&show_icons=true&include_all_commits=true&hide_border=true" /></div>
 
