@@ -1,7 +1,7 @@
 # Hello 👋
 
 My name is Santiago.
-- I am in [Stack Overflow](https://stackoverflow.com/users/10404390/sfl0r3nz05), [DockerHub](https://hub.docker.com/u/sflorenz05), [Twitter](https://twitter.com/sfl0r3nz05), [Medium](https://medium.com/@sfl0r3nz05), [Youtube](https://www.youtube.com/channel/UC3EC9Nj2rNeJnTBcyOgL0Sw) and [Linkedin](https://es.linkedin.com/in/sfl0r3nz05).
+- I am in [Stack Overflow](https://stackoverflow.com/users/10404390/sfl0r3nz05), [DockerHub](https://hub.docker.com/u/sflorenz05), [Twitter](https://twitter.com/sfl0r3nz05), [Medium](https://medium.com/@sfl0r3nz05), [Youtube](https://www.youtube.com/@sfl0r3nz05/playlists) and [Linkedin](https://es.linkedin.com/in/sfl0r3nz05).
 - Currently working at [CEIT](https://ceit.es) as a scientific researcher in fields such as Blockchain, Access Control Systems, Self-Sovereign Identity, ICS Security and Natural Processing Language.
 - I have received my PhD at [University of Navarra](https://www.unav.edu/) in October 2021.
   * The scientific activity in terms of articles/manuscripts published can be found in my [Google Scholar profile](https://scholar.google.com/citations?user=mfozVfMAAAAJ&hl=en).
