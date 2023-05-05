@@ -18,7 +18,7 @@ My name is Santiago.
 
 <table>
   <tr>
-    <td>Column 1</td>
-    <td>Column 2</td>
+    <td><img style="height: auto; width: auto;" class="img" src="https://github-readme-stats.vercel.app/api?username=sfl0r3nz05&theme=radical&show_icons=true&include_all_commits=true&hide_border=true" /></td>
+    <td><img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sfl0r3nz05&theme=radical&langs_count=8&layout=compact&hide_border=true" /></td>
   </tr>
 </table>
