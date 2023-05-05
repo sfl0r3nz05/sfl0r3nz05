@@ -15,3 +15,10 @@ My name is Santiago.
 
 ### GitHub Languages
 <div><img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sfl0r3nz05&theme=radical&langs_count=8&layout=compact&hide_border=true" /></div>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sfl0r3nz05&theme=radical&show_icons=true&include_all_commits=true&hide_border=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sfl0r3nz05&theme=radical&langs_count=8&layout=compact&hide_border=true" />
+</a>
