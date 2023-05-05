@@ -8,17 +8,9 @@ My name is Santiago.
 - I also work as a [Collaborating Professor](https://www.unav.edu/web/departamento-de-ingenieria-electrica-y-electronica/personal/profesores-de-otros-departamentos-y-centros#:~:text=Santiago%20Figueroa%20Lorenzo) at [TECNUN](https://tecnun.unav.edu/), [University of Navarra](https://www.unav.edu/).
 - I have completed an internship in the [Linux Foundation's mentorship program](https://mentorship.lfx.linuxfoundation.org/project/d8a154c6-41fb-4733-b3c8-df37796e7fa3), in November 2021.
 
-
-
-### GitHub Stats
-<div><img style="height: auto; width: auto;" class="img" src="https://github-readme-stats.vercel.app/api?username=sfl0r3nz05&theme=radical&show_icons=true&include_all_commits=true&hide_border=true" /></div>
-
-### GitHub Languages
-<div><img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sfl0r3nz05&theme=radical&langs_count=8&layout=compact&hide_border=true" /></div>
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=sfl0r3nz05&theme=radical&show_icons=true&include_all_commits=true&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sfl0r3nz05&theme=radical&show_icons=true&include_all_commits=true&hide_border=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sfl0r3nz05&theme=radical&langs_count=8&layout=compact&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sfl0r3nz05&theme=radical&langs_count=8&layout=compact&hide_border=true" />
 </a>
